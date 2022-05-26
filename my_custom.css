@@ -1,0 +1,22 @@
+body {
+    
+   font-family: 'Montserrat', sans-serif;
+}
+
+card-img{
+    
+    max-width: 600px;
+    
+} 
+
+nav_black {
+    
+    background-color: #000;
+}
+
+case_header {
+    
+    text-align: center;
+   
+}
+
